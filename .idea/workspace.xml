@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d6b5e1b-a6c0-406a-a665-97bc7e01cb8d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/chong1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/chong2.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/chong3.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/chongqing.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/contact.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home1.jpeg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/contact-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/home-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-sample-image.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/post.html" afterPath="$PROJECT_DIR$/post.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,14 +35,66 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            <state relative-caret-position="101">
+              <caret line="161" column="37" lean-forward="false" selection-start-line="161" selection-start-column="37" selection-end-line="161" selection-end-column="37" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="103" column="61" lean-forward="true" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-346">
+              <caret line="125" column="29" lean-forward="true" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="29" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2220">
+              <caret line="148" column="32" lean-forward="true" selection-start-line="148" selection-start-column="32" selection-end-line="148" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="about1.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/about1.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>home</find>
+      <find>about</find>
+      <find>post</find>
+      <find>contac</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +103,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/post.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
       </list>
     </option>
   </component>
@@ -51,8 +121,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="168" />
+    <option name="x" value="16" />
+    <option name="y" value="188" />
     <option name="width" value="1400" />
     <option name="height" value="389" />
   </component>
@@ -83,6 +153,11 @@
               <item name="FirstDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="FirstDemo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FirstDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -94,6 +169,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,15 +197,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508321943630</updated>
-      <workItem from="1508321946949" duration="70000" />
+      <workItem from="1508321946949" duration="7428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70000" />
+    <option name="totallyTimeSpent" value="7428000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="168" width="1400" height="389" extended-state="0" />
+    <frame x="16" y="188" width="1400" height="389" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -158,11 +238,57 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/home-bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="103" column="61" lean-forward="true" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/contact-bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/about1.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-346">
+          <caret line="125" column="29" lean-forward="true" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="148" column="32" lean-forward="true" selection-start-line="148" selection-start-column="32" selection-end-line="148" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="101">
+          <caret line="161" column="37" lean-forward="false" selection-start-line="161" selection-start-column="37" selection-end-line="161" selection-end-column="37" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
